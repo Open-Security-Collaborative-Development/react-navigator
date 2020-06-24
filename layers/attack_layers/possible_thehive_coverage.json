@@ -1,7 +1,7 @@
 {
-	"name": "layer",
+	"name": "Possible TheHive Analyzers and Responders Coverage",
 	"version": "2.2",
-	"domain": "Possible TheHive Analyzers and Responders Coverage",
+	"domain": "atc-react",
 	"description": "",
 	"filters": {
 		"stages": [
