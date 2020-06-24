@@ -20,7 +20,10 @@
 
     "default_layers": {
         "enabled": true,
-        "urls": ["https://raw.githubusercontent.com/atc-project/atc-react/master/docs/react_navigator_profile.json"]
+        "urls": [
+            "https://raw.githubusercontent.com/oscd-initiative/react-navigator/master/layers/attack_layers/current_thehive_coverage.json",
+            "https://raw.githubusercontent.com/oscd-initiative/react-navigator/master/layers/attack_layers/possible_thehive_coverage.json"
+        ]
     },
 
     "comment_color": "yellow",

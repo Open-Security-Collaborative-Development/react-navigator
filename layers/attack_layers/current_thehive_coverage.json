@@ -1,0 +1,204 @@
+{
+	"name": "layer",
+	"version": "2.2",
+	"domain": "Current TheHive Analyzers and Responders Coverage",
+	"description": "",
+	"filters": {
+		"stages": [
+			"act"
+		],
+		"platforms": [
+			"Windows",
+			"Linux",
+			"macOS"
+		]
+	},
+	"sorting": 2,
+	"viewMode": 0,
+	"hideDisabled": false,
+	"techniques": [
+		{
+			"techniqueID": "RA2105",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2316",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2317",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2315",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2313",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2104",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2206",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2312",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2320",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2319",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2314",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2508",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2318",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2106",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2117",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA3101",
+			"tactic": "containment",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA3103",
+			"tactic": "containment",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA3102",
+			"tactic": "containment",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA3104",
+			"tactic": "containment",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA2205",
+			"tactic": "identification",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		},
+		{
+			"techniqueID": "RA5101",
+			"tactic": "recovery",
+			"color": "#74c476",
+			"comment": "",
+			"enabled": true,
+			"metadata": []
+		}
+	],
+	"gradient": {
+		"colors": [
+			"#ff6666",
+			"#ffe766",
+			"#8ec843",
+			"#8ec843"
+		],
+		"minValue": 0,
+		"maxValue": 100
+	},
+	"legendItems": [],
+	"metadata": [],
+	"showTacticRowBackground": true,
+	"tacticRowBackground": "#dddddd",
+	"selectTechniquesAcrossTactics": true
+}
