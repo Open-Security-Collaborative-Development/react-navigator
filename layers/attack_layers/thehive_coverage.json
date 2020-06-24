@@ -1,5 +1,5 @@
 {
-	"name": "Possible TheHive Analyzers and Responders Coverage",
+	"name": "Current & Possible TheHive Analyzers and Responders Coverage",
 	"version": "2.2",
 	"domain": "atc-react",
 	"description": "",
@@ -460,7 +460,16 @@
 		"minValue": 0,
 		"maxValue": 100
 	},
-	"legendItems": [],
+	"legendItems": [
+		{
+			"label": "Already covered by TheHive",
+			"color": "#a1d99b"
+		},
+		{
+			"label": "Could be covered by TheHive",
+			"color": "#fce93b"
+		}
+	],
 	"metadata": [],
 	"showTacticRowBackground": true,
 	"tacticRowBackground": "#dddddd",
