@@ -445,7 +445,7 @@ export class DataTableComponent implements AfterViewInit {
         let tactics = [] //list of ordered tactics
         // ! the phases array defines the order of phases in the table; prepare comes before act
         let phases = [
-            {name: "prepare", objects: bundle[1]["objects"]},
+            //{name: "prepare", objects: bundle[1]["objects"]},
             {name: "act",     objects: bundle[0]["objects"]}
         ]
 
